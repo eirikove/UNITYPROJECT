@@ -1,5 +1,9 @@
 Does it?
 
+<<<<<<< HEAD
 Let's produce a merge conflict lmao.
 
 I'm so producing a merge conflict right now.
+=======
+Conflicts for everyone
+>>>>>>> fe75ae3769b94a791d7f9d9b752ef8335561c5fb
